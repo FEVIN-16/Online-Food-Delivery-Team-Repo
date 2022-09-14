@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
-.wholeBody8{
+.wholeBody7{
 	background: #f6f5f7;
 	display: flex;
 	justify-content: center;
@@ -67,7 +67,7 @@ input {
 
 
 
-.container8 {
+.container7 {
 	background-color: #fff;
 	border-radius: 10px;
   	box-shadow: 0 14px 28px rgba(0,0,0,0.25),
@@ -81,14 +81,14 @@ input {
 	margin-top: 40px;
 }
 
-.form-container8 {
+.form-container7 {
 	position: absolute;
 	top: 0;
 	height: 100%;
 	transition: all 0.6s ease-in-out;
 }
 
-.sign-up-container8 {
+.sign-up-container7 {
 	left: 0;
 	width: 100%;
 	z-index: 2;
